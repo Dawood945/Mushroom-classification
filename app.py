@@ -3,7 +3,6 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import sklearn
 import pickle
 
 # Load the model and label encoders
