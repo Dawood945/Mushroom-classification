@@ -3,7 +3,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import scikit-learn
+from sklearn.ensemble import RandomForestClassifier
 import pickle
 
 # Load the model and label encoders
